@@ -1,6 +1,6 @@
 module github.com/restayway/gorm-cache
 
-go 1.21
+go 1.27.4
 
 require (
 	github.com/redis/go-redis/v9 v9.3.0
